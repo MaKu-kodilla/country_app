@@ -4,7 +4,6 @@ import { Provider } from 'react-redux';
 import { Router, hashHistory } from 'react-router';
 import store from './store';
 import routes from './routes';
-import styles from './country.css';
 // import DevTools from './DevTools';
 
 
